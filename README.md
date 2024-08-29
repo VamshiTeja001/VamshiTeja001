@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raghavendra Chathurajupalli [@VamshiTeja001]
+- 👋 Hi, I’m Raghavendra Vamshi Teja Chathurajupalli [@VamshiTeja001]
 - 👀 I’m interested in ... RTL design, FPGA and IoT.
 - 🌱 I’m currently learning ... Deep Learning, Advanced FPGA applications and logic synthesis. 
 - 💞️ I’m looking to collaborate on ... IoT project that use lightweight data transfers, edge computing, FPGA accelerators and Deep Learning.

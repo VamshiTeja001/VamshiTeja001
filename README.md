@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... RTL design, FPGA and IoT.
 - 🌱 I’m currently learning ... Deep Learning, Advanced FPGA applications and logic synthesis. 
 - 💞️ I’m looking to collaborate on ... IoT project that use lightweight data transfers, edge computing, FPGA accelerators and Deep Learning.
-- 📫 How to reach me ... at linkedIN
+- 📫 How to reach me ... linkedIN at https://www.linkedin.com/in/raghavendrachathurajupalli/ 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... 
 
